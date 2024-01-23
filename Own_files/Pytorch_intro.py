@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.optim import SGD
 
-import lightning as L
+# import lightning as L
 # from torch.utils.data import` TensorDataset, DataLoader
 
 import matplotlib.pyplot as plt
